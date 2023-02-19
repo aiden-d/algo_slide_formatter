@@ -16,14 +16,15 @@ git pull git@github.com:aiden-d/algo_slide_formatter.git
 
 Navigate to the containing directory
 
-```
+``` bash
 cd algo_slide_formatter
 ```
 
 Use the script with any algorithms slides pdf
+
 For this example the slides are called slides.pdf and in the Mac downloads folder
 
-```
+``` bash
 python3 slide_formatter.py ~/Downloads/slides.pdf
 ```
 
