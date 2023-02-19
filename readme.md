@@ -8,7 +8,7 @@ This simple script removes all the redundant slides leaving you with a *clean* v
 
 ## Installation
 
-```
+``` bash
 git pull git@github.com:aiden-d/algo_slide_formatter.git
 ```
 
