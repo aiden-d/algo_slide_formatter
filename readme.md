@@ -8,7 +8,7 @@ This simple script removes all the redundant slides leaving you with a *clean* v
 
 The way it works is that it that the slides contain a number at the bottom which only changes when there is actually new content, the script simply collects the last of each number and combines it into a new pdf.
 
-The algorithm content can be found (here)[https://bristolalgo.github.io/courses/2022_2023_COMS10017/coms10017.html]
+The algorithm content can be found [here](https://bristolalgo.github.io/courses/2022_2023_COMS10017/coms10017.html)
 
 ## Installation
 
