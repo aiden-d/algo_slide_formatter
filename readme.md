@@ -2,7 +2,7 @@
 
 ## Purpose
 
-UoB Algorithms slides have shit formatting, every step is a new slide which makes it a pain to scroll through and annotate.
+UoB Algorithms slides have annoying formatting, every step is a new slide which makes it a pain to scroll through and annotate.
 
 This simple script removes all the redundant slides leaving you with a *clean* viewing experience.
 
